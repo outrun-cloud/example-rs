@@ -1,0 +1,9 @@
+lang:
+  "rust"
+buildCmd:
+  "make build"
+watOutput:
+  ""
+wasmOutput:
+  "target/wasm32-wasi/release/example-rs.wasm"
+  
